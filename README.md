@@ -1,5 +1,5 @@
 # Hi, I'm Robert! 
-I am a Computer Science Undergraduate at the [Rochester Institute of Technology](https://www.rit.edu/). I also enjoy music production 🎵 and policy analysis :)
+I am an undergraduate Computer Science major at the [Rochester Institute of Technology](https://www.rit.edu/). I also enjoy music production 🎵 and policy analysis :)
 
 - 🌐 Visit my [portfolio website](https://rhochgraf21.github.io/cv) for more information and to get in touch.
 - 👋 Check out my personal [blog](https://rhochgraf21.github.io/cv/blog) for articles and recent projects.
